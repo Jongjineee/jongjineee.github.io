@@ -117,20 +117,19 @@ layout: compress
           <div class="social">
             <ul>
               {% for link in site.social %}
-                <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
+                <li><a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i></a></li>
               {% endfor %}
             </ul>
           </div>
           <div class="search" id="js-search">
-            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+            <input type="text" placeholder="검색" class="search__input form-control" id="js-search__input">
             <ul class="search__results" id="js-search__results"></ul>
           </div>
           <hr />
           <ul class="sidebar-nav">
-            <strong>Navigation</strong>
-            <li><a href="/">Home</a></li>
+            <li><strong><a href="/">Home</a></strong></li>
             {% for i in site.urls %}
-              <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
+              <li><strong><a class="about" href="{{ i.url }}">{{ i.text }}</a></strong></li>
             {% endfor %}
           </ul>
         </div>
@@ -143,10 +142,6 @@ layout: compress
           {% if site.github %}
             - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
           {% endif %}
-          <div class="btn-github" style="float:right;">
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
-          </div>
         </footer>
       </div>
       <!-- end /.col-sm-8 -->

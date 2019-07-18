@@ -17,13 +17,9 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+      link: "https://www.facebook.com/jongjin.lee.14"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/%EC%A2%85%EC%A7%84-%EC%9D%B4-38a15517b/"
     - icon: fa-github
       link: "https://github.com/jonjineee"
 
@@ -34,8 +30,8 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+    # - text: My Projects
+    #   url: /projects/
     - text: XML Feed
       url: /feed.xml
 
