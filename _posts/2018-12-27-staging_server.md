@@ -17,7 +17,7 @@ categories: [Etc]
 * Elastic Search 또한 접속의 개념으로 호스트 주소를 입력하여 접속합니다. RDS 또한 호스트 주소를 입력합니다.
 * 각 서버에 대한 host와 password 등은 credential에 저장합니다.
 
-<img data-action="zoom" src='{{ "/static/img/_posts/staging_server_structure.png" | relative_url }}' alt='absolute'>
+![staging_server_structure](https://drive.google.com/uc?id=1fGYbd6ESE1GxbwlLcIxPfe0YovQVqSjh)
 
 * AWS - Elastic IP <br> EC2를 생성하면 할당되는 IP주소는 서버를 껐다가 킬때마다 변하기 때문에 <br>Elastic IP를 통해 고정 IP주소를 생성합니다.
 * 고정된 IP 받아 EC2의 IP를 넣어줬으면 DNS에서 IP를 사용하고자 하는 도메인에 할당합니다.
@@ -32,7 +32,7 @@ $ ssh [user]@[도메인]
 
 * SSH를 통한 접속은 ssh [user]@[도메인]의 형식으로 이루어 집니다.
 
-<img data-action="zoom" src='{{ "/images/ssh.png" | relative_url }}' alt='absolute'>
+![ssh](https://drive.google.com/uc?id=1fGYbd6ESE1GxbwlLcIxPfe0YovQVqSjh)
 
 * 처음 EC2를 생성하면 계정은 ubuntu로 되어있습니다. <br>때문에 ssh 접속 시 ssh ubuntu@< 도메인 >으로 접속합니다.
 * DNS에 등록한 도메인을 통해 ssh로 접속이 되는지 확인하면 EC2 생성이 잘 된 것!
@@ -54,7 +54,8 @@ $ ssh [user]@[도메인]
 * .ssh 디렉토리를 /home/deploy/에 추가해줍니다. -> $ mkdir .ssh
 * .ssh 디렉토리에 authorized_keys 파일을 추가해줍니다. -> $ touch authorized_keys
 
-<img data-action="zoom" src='{{ "/images/rsa_structure.png" | relative_url }}' alt='absolute'>
+![rsa_structure](https://drive.google.com/uc?id=1L5zzwbgAv8UqxIwVa0fnMn4zxR4jlAOh)
+
 
 *  그림에서 보이듯이 authorized_keys는 내 로컬의 id_rsa를 참조하여 해당 사용자가 접근 허용되는지 판명합니다.
 * Staging 서버의 authorized_keys에는 Production 서버에서 사용되는 키를 넣어 로컬에는 하나의 키만 넣어줬습니다.
