@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTTP란?
+title: HTTP 완벽가이드::HTTP란?
 date: 2019-7-18
 categories: []
 ---
