@@ -170,3 +170,13 @@ div.col-sm-3 img.profile-avatar {
     margin-top: 30px;
   }
 }
+
+.emphasis {
+  font-weight: bold;
+  color: rgb(80, 158, 230);
+}
+
+.center {
+  display: block;
+  margin: auto;
+}
