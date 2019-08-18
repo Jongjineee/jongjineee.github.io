@@ -4,7 +4,7 @@ body {
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
-  color: #666;
+  color: #222222;
 }
 hr {
   margin-top: 20px;
@@ -85,7 +85,7 @@ footer {
 div.col-sm-3 {
   margin-top: 100px;
   font-size: 11px;
-  color: #666;
+  color: #222222;
 }
 div.col-sm-3 strong {
   font-size: 16px;
@@ -179,4 +179,17 @@ div.col-sm-3 img.profile-avatar {
 .center {
   display: block;
   margin: auto;
+}
+
+tr {
+  border-bottom: solid 1px;
+}
+
+th {
+  padding: 10px 10px;
+  text-align: center;
+}
+
+td {
+  padding: 10px 10px;
 }
