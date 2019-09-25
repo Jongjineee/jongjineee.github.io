@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://jongjineee.github.io/sitemap.xml
