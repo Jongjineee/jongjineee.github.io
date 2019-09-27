@@ -176,6 +176,11 @@ div.col-sm-3 img.profile-avatar {
   color: rgb(80, 158, 230);
 }
 
+.emphasis-org {
+  font-weight: bold;
+  color: rgb(255, 156, 35);
+}
+
 .center {
   display: block;
   margin: auto;
