@@ -3,6 +3,7 @@ layout: post
 title: 레일즈 Joins VS Includes
 image: https://drive.google.com/uc?id=1o28Np0nb4uQRGblbpKkw7dmlyiuHiaVd
 date: 2019-7-18
+tag: [joins, includes, ruby, rails, 루비, 레일즈]
 categories: []
 ---
 ![ruby](https://drive.google.com/uc?id=1o28Np0nb4uQRGblbpKkw7dmlyiuHiaVd)

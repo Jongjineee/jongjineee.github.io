@@ -3,6 +3,7 @@ layout: post
 title: Python 프로그래머스 - 완주하지 못한 선수
 imagee: https://drive.google.com/uc?id=19JOAJmDm3xiyfB7xmxDclbuqgpmtjXOJ
 date: 2019-9-25
+tag: [프로그래머스, 파이썬, python, 완주하지 못한 선수, 알고리즘]
 categories: [algorithm]
 ---
 ![프로그래머스](https://drive.google.com/uc?id=19JOAJmDm3xiyfB7xmxDclbuqgpmtjXOJ)

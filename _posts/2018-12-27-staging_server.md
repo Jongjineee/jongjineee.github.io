@@ -3,6 +3,7 @@ layout: post
 title: 스테이징 서버 구축
 image: https://drive.google.com/uc?id=1fGYbd6ESE1GxbwlLcIxPfe0YovQVqSjh
 date: 2018-12-27
+tag: [staging, 스테이징, 서버, server]
 categories: [Etc]
 ---
 ## Staging Server 구축하기!

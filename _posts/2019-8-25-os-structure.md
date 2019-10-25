@@ -3,6 +3,7 @@ layout: post
 title: 운영체제 (Operating System / OS) 구조 & 동작
 image: https://drive.google.com/uc?id=14deQUE0ykyNyS2jnnmzTbvdZaldeZomb
 date: 2019-8-25
+tag: [운영체제, os, operating system, 리눅스, linux, 구조]
 categories: []
 ---
 ![운영체제](https://drive.google.com/uc?id=14deQUE0ykyNyS2jnnmzTbvdZaldeZomb)

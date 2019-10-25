@@ -40,9 +40,9 @@ layout: compress
     {% endif %}
 
     {% if page.description %}
-      <meta content="{{ page.description }}" property="og:description">
-    {% else %}
       <meta content="{{ site.description }}" property="og:description">
+    {% else %}
+      <meta content="{{ page.content | strip_html | strip_newlines | truncatewords: 200  }}" property="og:description">
     {% endif %}
 
     {% if page.url %}

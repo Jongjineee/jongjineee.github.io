@@ -3,6 +3,7 @@ layout: post
 title: 2019 상반기 회고 & 글또 3기 시작
 image: https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-
 date: 2019-7-4
+tag: [글또, 블로그, 개발 블로그]
 categories: []
 ---
 ![book](https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-)

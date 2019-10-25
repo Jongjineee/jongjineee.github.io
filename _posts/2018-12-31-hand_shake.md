@@ -4,6 +4,7 @@ title: 3 Way Handshake & 4 Way Handshake
 image: https://drive.google.com/uc?id=1vLCxFe3PdepG8PEvbpFsl-hR_8vz8z6N
 description: "3 Way Handshake & 4 Way Handshake"
 date: 2018-12-31 
+tag: [datascience, 3 way handshake, 4 way handshake, os]
 categories: [DataScience]
 ---
 

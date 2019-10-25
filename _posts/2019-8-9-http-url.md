@@ -3,6 +3,7 @@ layout: post
 title: HTTP 완벽가이드::URL
 image: https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-
 date: 2019-8-9
+tag: [http, https, computerscience, url]
 categories: []
 ---
 ![book](https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-)
