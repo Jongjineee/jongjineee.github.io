@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python 프로그래머스 - 완주하지 못한 선수
-iamge: https://drive.google.com/uc?id=19JOAJmDm3xiyfB7xmxDclbuqgpmtjXOJ
+imagee: https://drive.google.com/uc?id=19JOAJmDm3xiyfB7xmxDclbuqgpmtjXOJ
 date: 2019-9-25
 categories: [algorithm]
 ---
