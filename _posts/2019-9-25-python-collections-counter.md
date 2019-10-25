@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Python 프로그래머스 - 완주하지 못한 선수
+iamge: https://drive.google.com/uc?id=19JOAJmDm3xiyfB7xmxDclbuqgpmtjXOJ
 date: 2019-9-25
 categories: [algorithm]
 ---
+![프로그래머스](https://drive.google.com/uc?id=19JOAJmDm3xiyfB7xmxDclbuqgpmtjXOJ)
 
 #### 문제 설명
 수많은 마라톤 선수들이 마라톤에 참여하였습니다. 단 한 명의 선수를 제외하고는 모든 선수가 마라톤을 완주하였습니다.

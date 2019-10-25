@@ -1,9 +1,11 @@
 ---
 layout: post
 title: HTTP 완벽가이드::HTTP란?
+image: https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-
 date: 2019-7-18
 categories: []
 ---
+![book](https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-)
 
 이 포스팅은 책 'HTTP 완벽가이드'를 읽고 작성하였습니다.  
   

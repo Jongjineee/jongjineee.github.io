@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 운영체제 (Operating System / OS) 구조 & 동작
+image: https://drive.google.com/uc?id=14deQUE0ykyNyS2jnnmzTbvdZaldeZomb
 date: 2019-8-25
 categories: []
 ---
+![운영체제](https://drive.google.com/uc?id=14deQUE0ykyNyS2jnnmzTbvdZaldeZomb)
 
 ### 운영체제의 구조
 

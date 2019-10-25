@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 2019 상반기 회고 & 글또 3기 시작
+image: https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-
 date: 2019-7-4
 categories: []
 ---
+![book](https://drive.google.com/uc?id=1FOZcrxOvATtgpS30IUyknAumEHM9U-Y-)
 
 지난 상반기에는 꽤 이것저것 하고자 했던 것이 많았다. 그중에는 이룬 것도 있고 실패한 것도 있었다.  
 욕심이 많고 누리고 싶은 것도 많지만 아직도 꿈만 아주 열심히 꾸고 있다.  

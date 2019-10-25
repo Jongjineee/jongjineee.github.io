@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 스택 / 큐 (stack and que)
+image: https://drive.google.com/uc?id=1-331-WItPcbNuWKl34MzUECc9edYGgIu
 date: 2018-1-3
 categories: [DataScience]
 ---
+![stack](https://drive.google.com/uc?id=1-331-WItPcbNuWKl34MzUECc9edYGgIu)
 
 ## 스택 &amp; 큐
 * * *
