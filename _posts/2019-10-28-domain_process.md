@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 도메인을 통해 웹사이트에 접속하는 과정
-image: 
+image: https://drive.google.com/uc?id=1CUAPOGF1_9fleXNgUso93fUJrabFl_dn
 date: 2019-10-28
 tag: [네트워크, 도메인, domain, 웹사이트, DNS]
 categories: []
