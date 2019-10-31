@@ -198,3 +198,10 @@ th {
 td {
   padding: 10px 10px;
 }
+
+.caption {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  font-style: italic;
+}
