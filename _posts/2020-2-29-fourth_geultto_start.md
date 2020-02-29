@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 글또 4기 시작!
-image: https://drive.google.com/open?id=1dJxg_LBqAyduQHm9tx7zq84Zrzi_lT7P
+image: https://drive.google.com/uc?id=1dJxg_LBqAyduQHm9tx7zq84Zrzi_lT7P
 date: 2020-2-29
 tag: [블로그, 개발자, 신입 개발자, 개발 블로그, 글또, 글또 4기]
 categories: []
