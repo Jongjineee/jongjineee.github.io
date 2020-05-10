@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Rails] Polymorphic Association(다중 연광성)"
+title: "[Rails] Polymorphic Association(다중 연관성)"
 image: 
 date: 2020-4-26
 tag: [rails, polymorphic, 다중 연관성, modeling]
